@@ -1,5 +1,10 @@
-### Hi there 👋
+### About Me
 
+I'm a curious, quick-learning data scientist with a drive for bringing my problem solving skills to collaboratively create agile, end-to-end machine learning solutions in Python with focus on interplay of detail, broader vision, and human impact.
+
+- Working on: Story Squad - an app that turns “reluctant readers” into authors and illustrators through a collaborative world-building game.
+- Seeking: First industry job as a Data Scientist, Machine Learning Engineer, or Data Engineer
+- Contact me: lori.schlatter@gmail.com
 <!--
 **lorischl-otter/lorischl-otter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
