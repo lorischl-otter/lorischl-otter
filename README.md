@@ -1,8 +1,9 @@
 ### About Me
 
-I'm a curious, quick-learning data scientist with a drive for bringing my problem solving skills to collaboratively create agile, end-to-end machine learning solutions in Python with focus on interplay of detail, broader vision, and human impact.
+I'm a curious, quick-learning, and empathy-driven data scientist with a drive for bringing my problem solving skills to collaboratively create agile, end-to-end machine learning solutions in Python with equal focus on macro-level impact and micro-level decision-making.
 
-- Working on: Story Squad - an app that turns “reluctant readers” into authors and illustrators through a collaborative world-building game.
+- Working on: [Story Squad](https://github.com/Lambda-School-Labs/Labs26-StorySquad-DS-TeamB) - an app that turns “reluctant readers” into authors and illustrators through a collaborative world-building game. Primary skills: stakeholder & crossfunctional team communication, basic Python NLP techniques, RESTful API integration, AWS deployment, implementing Google Cloud OCR
+- Passionate about: positive human impact, clear communication, nuance, the logic of empathy, and the high peanut-butter-to-chocolate ratio in seasonal Reese's 
 - Seeking: First industry job as a Data Scientist, Machine Learning Engineer, or Data Engineer
 - Contact me: lori.schlatter@gmail.com
 <!--
