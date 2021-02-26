@@ -1,10 +1,11 @@
 ### About Me
 
-I'm a curious, quick-learning, and empathy-driven data scientist with a drive for bringing my problem solving skills to collaboratively create agile, end-to-end machine learning solutions in Python with equal focus on macro-level impact and micro-level decision-making.
+I'm a curious, quick-learning, and empathy-driven data scientist with a drive for bringing my problem solving skills to collaboratively create agile, end-to-end machine learning solutions in Python with equal focus on macro-level impact and micro-level decision-making. Not an actual otter, but my name does rhyme with one. 
 
-- Working on: [Story Squad](https://github.com/Lambda-School-Labs/Labs26-StorySquad-DS-TeamB) - an app that turns “reluctant readers” into authors and illustrators through a collaborative world-building game. Primary skills: stakeholder & crossfunctional team communication, basic Python NLP techniques, RESTful API integration, AWS deployment, implementing Google Cloud OCR
+- Working on: [Story Squad's](https://www.storysquad.education/) [Free Daily Story Contest](https://contest.storysquad.app/), providing kiddos (or adults!) with a regular creative writing outlet that can be read & scored by robots 🤖 then upvoted by peers. Based on work from [this project repo](https://github.com/Lambda-School-Labs/Labs26-StorySquad-DS-TeamB). Primary skills: stakeholder & crossfunctional team communication, NLP in Python, RESTful API integration, AWS deployment, implementing Google Cloud OCR for handwriting recognition.
+- Current gig: Contract Data Scientist with [Lambda Studios](https://lambdaschool.com/studios)
 - Passionate about: positive human impact, clear communication, nuance, the logic of empathy, and the high peanut-butter-to-chocolate ratio in seasonal Reese's 
-- Seeking: First industry job as a Data Scientist, Machine Learning Engineer, or Data Engineer
+- Seeking: Next industry job as a Data Scientist, Machine Learning Engineer, or Data Engineer
 - Contact me: lori.schlatter@gmail.com
 <!--
 **lorischl-otter/lorischl-otter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
